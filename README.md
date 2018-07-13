@@ -1,0 +1,2 @@
+# taobao_Spider
+利用selenium和pyquery爬取淘宝某类商品店铺的信息
